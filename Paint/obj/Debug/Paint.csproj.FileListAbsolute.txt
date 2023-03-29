@@ -1,0 +1,11 @@
+D:\WSlab\Paint\Paint\bin\Debug\Paint.exe.config
+D:\WSlab\Paint\Paint\bin\Debug\Paint.exe
+D:\WSlab\Paint\Paint\bin\Debug\Paint.pdb
+D:\WSlab\Paint\Paint\obj\Debug\Paint.csproj.AssemblyReference.cache
+D:\WSlab\Paint\Paint\obj\Debug\Paint.csproj.SuggestedBindingRedirects.cache
+D:\WSlab\Paint\Paint\obj\Debug\Paint.Form1.resources
+D:\WSlab\Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+D:\WSlab\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.cache
+D:\WSlab\Paint\Paint\obj\Debug\Paint.csproj.CoreCompileInputs.cache
+D:\WSlab\Paint\Paint\obj\Debug\Paint.exe
+D:\WSlab\Paint\Paint\obj\Debug\Paint.pdb
